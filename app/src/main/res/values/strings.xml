@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CSCI3130-Demo</string>
+    <string name="eidtMessage">Please enter a message : ）</string>
+    <string name="buttonSend">Send</string>
 </resources>

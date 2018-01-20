@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CSCI3130Demo.iml" filepath="$PROJECT_DIR$/CSCI3130Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSCI3130-Demo.iml" filepath="$PROJECT_DIR$/.idea/CSCI3130-Demo.iml" />
+      <module fileurl="file://C:\Users\HP\AndroidStudioProjects\CSCI3130-Demo\CSCI3130Demo.iml" filepath="C:\Users\HP\AndroidStudioProjects\CSCI3130-Demo\CSCI3130Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
